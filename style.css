@@ -1,9 +1,9 @@
 #box {
-  width: 100px;
+  background-image: url("cat.png");
+  width: 150px;
   height: 100px;
   position: absolute;
-  background: gray;
+  /* background: gray; */
   left: 200px;
   top: 200px;
-  /* background-image: url(cat.png); */
 }
